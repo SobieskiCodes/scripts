@@ -5,7 +5,7 @@
 // @description  Don't make the mistake of attacking
 // @author       ProbsJustin#0001
 // @match        *.torn.com/loader.php*
-// @updateURL    https://gist.githubusercontent.com/SobieskiCodes/f32bc09d38c2757606dc7db027363b2a/raw/278ca1baaadb72d7a24f0dd801546825e5cbb862/gainzallday.js
+// @updateURL    https://raw.githubusercontent.com/SobieskiCodes/scripts/main/Gainz4Dayz.js
 // @connect      api.torn.com
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
