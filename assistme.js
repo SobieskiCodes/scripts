@@ -6,7 +6,7 @@
 // @author       Odo [2180136]
 // @match        https://www.torn.com/loader*
 // @require http://code.jquery.com/jquery-3.4.1.min.js
-// @updateURL https://github.com/SobieskiCodes/scripts/blob/main/assistme.js
+// @updateURL https://github.com/SobieskiCodes/scripts/raw/main/assistme.js
 // @grant    GM.getValue
 // @grant    GM.setValue
 // @grant    GM.xmlHttpRequest
